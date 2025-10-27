@@ -1,0 +1,8 @@
+Website URL: https://yourusername.github.io/ds4200_hw3_website/
+
+Styling & Customizations implemented:
+1. Custom font: "Inter" loaded via Google Fonts and applied site-wide.
+2. Custom color palette (dark theme) using CSS variables and gradient background.
+3. Rounded corners, box shadows, and hover color transitions for links.
+4. Responsive design using flexbox layout and media query.
+5. Sticky navigation header with subtle drop shadow.
