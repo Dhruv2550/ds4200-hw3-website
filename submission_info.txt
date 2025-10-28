@@ -1,8 +1,31 @@
-Website URL: https://yourusername.github.io/ds4200_hw3_website/
+Website URL: https://dhruv2550.github.io/ds4200-hw3-website/index.html
 
-Styling & Customizations implemented:
-1. Custom font: "Inter" loaded via Google Fonts and applied site-wide.
-2. Custom color palette (dark theme) using CSS variables and gradient background.
-3. Rounded corners, box shadows, and hover color transitions for links.
-4. Responsive design using flexbox layout and media query.
-5. Sticky navigation header with subtle drop shadow.
+Styling & Customizations:
+1.	Custom Font & Typography:
+	The site uses the "Inter" font loaded via Google Fonts.
+	Applied consistent font weights for headings and body text for better readability and a modern look.
+	Headings (h1, h2, h3) are distinguished by size and accent color to establish hierarchy.
+
+2.	Color Scheme & Visual Theme:
+	Implemented a dark color palette using CSS variables for background, text, accent, and card elements.
+	Accent color (#6b8cff) is used for headings, links, and hover effects to guide user focus.
+	Cards and sections have slightly different background shades to create depth.
+
+3.	Layout & Spacing:
+	Used flexbox for layout in the intro section to align text and images side-by-side.
+	Added custom margins, padding, and rounded corners to containers and images for a clean, modern look.
+	Box shadows applied to cards and images to create depth and subtle separation from background.
+
+4.	Navigation Enhancements:
+	Sticky header with drop shadow ensures navigation is always accessible.
+	Navigation links have hover color transitions to improve interactivity.
+
+5.	Responsive Design:
+	Media queries adjust layout for screens smaller than 700px.
+	On mobile, images shrink and text stacks vertically for better readability.
+	Ensures the site is usable on both desktop and mobile devices.
+
+6.	Additional Features:
+	Alt text for all images improves accessibility.
+	Semantic HTML (header, main, section, footer) improves structure and SEO.
+	Footer with copyright information completes the site.
